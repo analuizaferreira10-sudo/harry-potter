@@ -1,0 +1,7 @@
+function mostrarMensagem(){
+
+  document.getElementById("mensagem")
+  .innerHTML =
+  "A alma gótica também sabe florescer. 🖤";
+
+}
